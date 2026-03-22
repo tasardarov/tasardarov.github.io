@@ -1,28 +1,16 @@
 ---
-title: Courses
-summary: My courses
-type: landing
+title: "Курсы"
+---
 
-cascade:
-  - target:
-      path: '{/courses/*/**}'
-    type: docs
-    params:
-      show_breadcrumb: true
+## Программирование на C++
+**Stepik** | 2025
+- Основы C++, ООП, STL
 
-sections:
-  - block: collection
-    id: courses
-    content:
-      title: Courses
-      filters:
-        tag: Course
-        kinds:
-          - section
-    design:
-      view: article-grid
-      show_read_time: false
-      show_date: false
-      show_read_more: false
-      columns: 1
+## Введение в Git
+**Stepik** | 2026
+- Основы работы с Git
+
+## Основы кибербезопасности
+**Stepik** | 2026
+- Шифрование, безопасность сетей
 ---
