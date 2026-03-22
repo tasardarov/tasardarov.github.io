@@ -1,0 +1,38 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Сардаров Тимур Алишерович
+  given: Тимур
+  family: Сардаров
+  alternate: ''  # Example: 王伟
+  pronunciation: ''  # Example: Wáng Wěi
+postnominals:
+  - PhD
+  - MIEEE
+status:
+role: Студент РУДН. Направление: "Прикладная информатика"
+bio: |
+  Студент РУДН им. Патриса Лумумбы.
+  Факультет: "Физико-математических и естественных наук".
+  Направление: "Прикладная    информатика".
+  Специализируюсь на кибербезопасности, сетевой инженирии, разработке на C++/Python.
+
+affiliations:
+  - name: РУДН
+    url: https://www.rudn.ru/
+
+links:
+  - icon: brands/github
+    url: https://github.com/tasardarov/
+
+interests:
+  - Кибербезопасность
+  - Сетевая инженерия
+  - Программирование С++/Putho
+
+education:
+  - degree: Бакалавриат, Прикладная информатика
+    institution: РУДН им. Патриса Лумумбы
+    start: 2025-09-01
+    end: 2019-06-30
