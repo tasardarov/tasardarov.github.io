@@ -19,12 +19,14 @@ bio: |
   Специализируюсь на кибербезопасности, сетевой инженирии, разработке на C++/Python.
 
 affiliations:
-  - name: РУДН
+  - name: Российский университет дружбы народов имени Патриса Лумумбы
     url: https://www.rudn.ru/
 
 links:
   - icon: brands/github
     url: https://github.com/tasardarov/
+  - icon: fas/envelope
+    url: "mailto:timursardarov475@gmail.com"
 
 interests:
   - Кибербезопасность
